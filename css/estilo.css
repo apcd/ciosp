@@ -19,7 +19,7 @@
     .info-topo { text-align: center !important; padding-bottom: 20px !important; }
     .headline h1 { font-size: 43px !important; padding: 0 !important; }
     .video-container .title-container { top: 2% !important; }
-    .video-container { height: 1400px !important; background: url(http://www.ciosp.com.br/imagens/foto-background.jpg) no-repeat !important; background-position: center !important; background-size: auto 100% !important;  }
+    .video-container { height: 1400px !important; background: url(imagens/foto-background.jpg) no-repeat !important; background-position: center !important; background-size: auto 100% !important;  }
     .chamada-topo { margin-bottom: 60px !important; }
     .logo-60anos { padding: 40px 20px !important; }
     .texto-60anos { padding: 0 10px !important; }
