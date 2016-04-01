@@ -1,2 +1,0 @@
-# ciosp
-teste de aplicativo
